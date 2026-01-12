@@ -7,7 +7,7 @@ Role Setup for the AI
 “You are acting as a senior C# architect reviewing real-world production codebases.”
 ________________________________________
 
-Practice Prompt 1: Defaults Over Demos
+### Practice Prompt 1: Defaults Over Demos
 
 Ask your AI assistant:
 
@@ -26,7 +26,7 @@ Outcome:
 You should clearly explain why mature languages optimize experience, not excitement.
 ________________________________________
 
-Practice Prompt 2: Structural Clarity at Scale
+### Practice Prompt 2: Structural Clarity at Scale
 
 Ask:
 
@@ -47,7 +47,7 @@ Outcome:
 You should be able to justify these features as architectural tools, not syntax sugar.
 ________________________________________
 
-Practice Prompt 3: Value Modeling Decisions
+### Practice Prompt 3: Value Modeling Decisions
 
 Ask:
 
@@ -68,7 +68,7 @@ Outcome:
 You should confidently choose the right data construct for a given domain.
 ________________________________________
 
-Practice Prompt 4: Records Beyond Reference Types
+### Practice Prompt 4: Records Beyond Reference Types
 
 Ask:
 
@@ -87,7 +87,7 @@ Outcome:
 You should understand how C# 10 completes the data-modeling story started in C# 9.
 ________________________________________
 
-Practice Prompt 5: Lambdas as First-Class Language Elements
+### Practice Prompt 5: Lambdas as First-Class Language Elements
 
 Ask:
 
@@ -108,7 +108,7 @@ Outcome:
 You should recognize lambdas as language-level constructs, not anonymous hacks.
 ________________________________________
 
-Practice Prompt 6: Performance Without Cognitive Load
+### Practice Prompt 6: Performance Without Cognitive Load
 
 Ask:
 
@@ -129,7 +129,7 @@ Outcome:
 You should explain how C# increasingly hides performance optimizations behind safer defaults.
 ________________________________________
 
-Practice Prompt 7: Async Builders and Advanced Control
+### Practice Prompt 7: Async Builders and Advanced Control
 
 Ask:
 
@@ -150,7 +150,7 @@ Outcome:
 You should distinguish between power features and everyday features.
 ________________________________________
 
-Practice Prompt 8: Correctness as a Quiet Feature
+### Practice Prompt 8: Correctness as a Quiet Feature
 
 Ask:
 
@@ -169,7 +169,7 @@ Outcome:
 You should value correctness improvements even when they don’t add new syntax.
 ________________________________________
 
-Practice Prompt 9: Language Cadence and Previews
+### Practice Prompt 9: Language Cadence and Previews
 
 Ask:
 
@@ -188,7 +188,7 @@ Outcome:
 You should understand language evolution as a continuous, transparent process.
 ________________________________________
 
-Practice Prompt 10: Evolution Framework Evaluation
+### Practice Prompt 10: Evolution Framework Evaluation
 
 Ask:
 
@@ -209,7 +209,7 @@ Outcome:
 You should articulate why C# 10 is a maintenance-driven milestone.
 ________________________________________
 
-Final Reflection Prompt
+### Final Reflection Prompt
 
 Ask:
 
@@ -220,7 +220,7 @@ Ultimate Outcome:
 You should see C# 10 as a language that values calm codebases, sharp defaults, and long-term clarity.
 ________________________________________
 
-Key Takeaways Reinforced
+## Key Takeaways Reinforced
 
 •	C# 10 improves the experience of daily development
 
