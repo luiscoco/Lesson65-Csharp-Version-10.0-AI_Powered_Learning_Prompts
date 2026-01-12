@@ -1,8 +1,6 @@
 # Lesson 65 - C# Version 10.0 AI-Powered Learning Prompts
 
-Sharper Defaults, Clearer Code, Faster Execution
-
-Role Setup for the AI
+## Role Setup for the AI
 
 “You are acting as a senior C# architect reviewing real-world production codebases.”
 ________________________________________
